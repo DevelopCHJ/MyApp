@@ -1,1 +1,3 @@
-/* index Raccoon */
+/* index */
+console.info("=======")
+
